@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\exercicio2\exercicio2\bin\Debug\net8.0\exercicio2.exe
+C:\Users\USER\source\repos\exercicio2\exercicio2\bin\Debug\net8.0\exercicio2.deps.json
+C:\Users\USER\source\repos\exercicio2\exercicio2\bin\Debug\net8.0\exercicio2.runtimeconfig.json
+C:\Users\USER\source\repos\exercicio2\exercicio2\bin\Debug\net8.0\exercicio2.dll
+C:\Users\USER\source\repos\exercicio2\exercicio2\bin\Debug\net8.0\exercicio2.pdb
+C:\Users\USER\source\repos\exercicio2\exercicio2\obj\Debug\net8.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\exercicio2\exercicio2\obj\Debug\net8.0\exercicio2.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\exercicio2\exercicio2\obj\Debug\net8.0\exercicio2.AssemblyInfo.cs
+C:\Users\USER\source\repos\exercicio2\exercicio2\obj\Debug\net8.0\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\exercicio2\exercicio2\obj\Debug\net8.0\exercicio2.dll
+C:\Users\USER\source\repos\exercicio2\exercicio2\obj\Debug\net8.0\refint\exercicio2.dll
+C:\Users\USER\source\repos\exercicio2\exercicio2\obj\Debug\net8.0\exercicio2.pdb
+C:\Users\USER\source\repos\exercicio2\exercicio2\obj\Debug\net8.0\exercicio2.genruntimeconfig.cache
+C:\Users\USER\source\repos\exercicio2\exercicio2\obj\Debug\net8.0\ref\exercicio2.dll
