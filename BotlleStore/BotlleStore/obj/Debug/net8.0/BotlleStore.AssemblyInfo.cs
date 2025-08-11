@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BotlleStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0416fa10734fcad1d5bb65cea9701d3738480578")]
 [assembly: System.Reflection.AssemblyProductAttribute("BotlleStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BotlleStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
