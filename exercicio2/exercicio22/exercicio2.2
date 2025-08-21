@@ -1,0 +1,47 @@
+﻿using System;
+using System.Linq; 
+
+class ProgramaNumeros
+{
+    static void Main()
+    {
+        int quantidade;
+
+      
+        do
+        {
+            Console.Write("Digite a quantidade de números que deseja informar (entre 3 e 10): ");
+            if (!int.TryParse(Console.ReadLine(), out quantidade) || quantidade < 3 || quantidade > 10)
+            {
+                Console.WriteLine(" Quantidade invalida! Digite um numero inteiro entre 3 e 10.");
+            }
+        } while (quantidade < 3 || quantidade > 10);
+
+     
+        double[] numeros = new double[quantidade];
+
+        for (int i = 0; i < quantidade; i++)
+        {
+            double valor;
+            bool valido;
+            do
+            {
+                Console.Write($"Digite o {i + 1} numero: ");
+                valido = double.TryParse(Console.ReadLine(), out valor);
+                if (!valido)
+                {
+                    Console.WriteLine(" Valor invalido! Digite um numero decimal valido (positivo ou negativo).");
+                }  } while (!valido);
+
+            numeros[i] = valor;
+        }
+
+        double soma = numeros.Sum();
+        double media = numeros.Average();
+
+        Console.WriteLine("\n* RESULTADO *");
+        Console.WriteLine($"numeros informados: {string.Join(", ", numeros)}");
+        Console.WriteLine($"Soma: {soma}");
+        Console.WriteLine($"Media: {media}");
+    }
+}
